@@ -1,0 +1,64 @@
+The code you've posted appears to be a C++ implementation of a QuadTree data structure, along with some supporting functions. However, I'll point out a few potential issues and suggest improvements:
+
+1. **Memory Management**: In the `insertCity` method, you're manually allocating memory for new nodes using `new`. This can lead to memory leaks if not handled properly (e.g., forgetting to delete nodes). Consider using smart pointers or a container that manages memory for you.
+
+2. **Error Handling**: You have an `exit(EXIT_FAILURE)` statement in the `insertCity` method, which is generally considered bad practice. Instead, consider throwing an exception or returning a specific error code to handle invalid insertions.
+
+3. **Direction Enum**: The `getDirection` function returns an enum value (e.g., `NE`, `NW`, etc.), but you're using `switch` statements with string values (`case NE:`). Consider defining an enum for the directions and using it in your switch statements.
+
+4. **Magic Numbers**: The code contains several "magic numbers" (e.g., `3956` in the `getDistance` function). While these are well-known constants, consider defining them as named constants to improve readability.
+
+5. **Type Consistency**: You're mixing `float` and `int` types within the same function (`getDistance`). Stick to a single type for consistency.
+
+Here's an updated version of your code with some suggested improvements:
+
+```cpp
+// quadTree.h (assuming this file contains the QuadTree class definition)
+
+class QuadTreeNode {
+public:
+    // ...
+};
+
+enum Direction { NE, NW, SE, SW };
+
+QuadTree::QuadTree(quadTreeNode* node) : data(node), northWest(NULL), northEast(NULL), southWest(NULL), southEast(NULL) {}
+
+void QuadTree::insertCity(quadTreeNode* nodeToInsert) {
+    if (*data == *nodeToInsert) {
+        // Handle duplicate insertion
+        throw std::runtime_error("Duplicate city insertion");
+    }
+
+    int direction = data->getDirection(nodeToInsert);
+
+    switch (direction) {
+        case NE:
+            if (!northEast) {
+                northEast = new QuadTree(nodeToInsert);
+            } else {
+                northEast->insertCity(nodeToInsert);
+            }
+            break;
+        // ...
+    }
+}
+
+float getDistance(float firstLat, float firstLong, float secondLat, float secondLong) {
+    const float R = 3956.0f;  // Define named constants
+    const float RADIAN_TO_DEGREE = 0.017453293f;
+
+    float firstLatRadians = firstLat * RADIAN_TO_DEGREE;
+    float firstLongRadians = firstLong * RADIAN_TO_DEGREE;
+    float secondLatRadians = secondLat * RADIAN_TO_DEGREE;
+    float secondLongRadians = secondLong * RADIAN_TO_DEGREE;
+
+    // Simplify expression using Math library functions (e.g., `pow` instead of manual multiplication)
+    float distance = R * acos(sin(firstLatRadians) * sin(secondLatRadians) + cos(firstLatRadians) * cos(secondLatRadians) * cos(secondLongRadians - firstLongRadians));
+
+    return distance;
+}
+```
+
+These changes focus on improving code readability, consistency, and error handling. However, the overall logic of your QuadTree implementation appears correct.
+

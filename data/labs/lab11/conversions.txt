@@ -1,0 +1,7 @@
+meters 100
+feet 30.48
+inches 2.54
+kilometers 1000000
+millimeters 0.1
+yards 91.44
+miles 160934.4

@@ -1,0 +1,60 @@
+15-Jan-67;Green Bay Packers
+14-Jan-68;Green Bay Packers
+12-Jan-69;New York Jets
+11-Jan-70;Kansas City Chiefs
+17-Jan-71;Baltimore Colts
+16-Jan-72;Dallas Cowboys
+14-Jan-73;Miami Dolphins
+13-Jan-74;Miami Dolphins
+12-Jan-75;Pittsburgh Steelers
+18-Jan-76;Pittsburgh Steelers
+9-Jan-77;Oakland Raiders
+15-Jan-78;Dallas Cowboys
+21-Jan-79;Pittsburgh Steelers
+20-Jan-80;Pittsburgh Steelers
+25-Jan-81;Oakland Raiders
+24-Jan-82;San Francisco 49ers
+30-Jan-83;Washington Redskins
+22-Jan-84;Los Angeles Raiders
+20-Jan-85;San Francisco 49ers
+26-Jan-86;Chicago Bears
+25-Jan-87;New York Giants
+31-Jan-88;Washington Redskins
+22-Jan-89;San Francisco 49ers
+28-Jan-90;San Francisco 49ers
+27-Jan-91;New York Giants
+26-Jan-92;Washington Redskins
+31-Jan-93;Dallas Cowboys
+30-Jan-94;Dallas Cowboys
+29-Jan-95;San Francisco 49ers
+28-Jan-96;Dallas Cowboys
+26-Jan-97;Green Bay Packers
+25-Jan-98;Denver Broncos
+31-Jan-99;Denver Broncos
+30-Jan-00;St. Louis Rams
+28-Jan-01;Baltimore Ravens
+3-Feb-02;New England Patriots
+26-Jan-03;Tampa Bay Buccaneers
+1-Feb-04;New England Patriots
+6-Feb-05;New England Patriots
+5-Feb-06;Pittsburgh Steelers
+4-Feb-07;Indianapolis Colts
+3-Feb-08;New York Giants
+1-Feb-09;Pittsburgh Steelers
+7-Feb-10;New Orleans Saints
+6-Feb-11;Green Bay Packers
+5-Feb-12;New York Giants
+3-Feb-13;Baltimore Ravens
+2-Feb-14;Seattle Seahawks
+1-Feb-15;New England Patriots
+7-Feb-16;Denver Broncos
+5-Feb-17;New England Patriots
+4-Feb-18;Philadelphia Eagles
+3-Feb-19;New England Patriots
+2-Feb-20;Kansas City Chiefs
+7-Feb-21;Tampa Bay Buccaneers
+13-Feb-22;Los Angeles Rams
+12-Feb-23;Kansas City Chiefs
+11-Feb-24;Kansas City Chiefs
+
+

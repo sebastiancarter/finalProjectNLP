@@ -1,0 +1,1846 @@
+state,count,event type,study population,year
+Alabama,9506,Mortality,4430141,1999
+Alabama,19823,Incidence,4452173,2000
+Alabama,9807,Mortality,4452173,2000
+Alabama,21050,Incidence,4467634,2001
+Alabama,9801,Mortality,4467634,2001
+Alabama,21383,Incidence,4480089,2002
+Alabama,9698,Mortality,4480089,2002
+Alabama,20788,Incidence,4503491,2003
+Alabama,9812,Mortality,4503491,2003
+Alabama,22221,Incidence,4530729,2004
+Alabama,9756,Mortality,4530729,2004
+Alabama,22643,Incidence,4565917,2005
+Alabama,9913,Mortality,4565917,2005
+Alabama,23310,Incidence,4628981,2006
+Alabama,9899,Mortality,4628981,2006
+Alabama,24156,Incidence,4672840,2007
+Alabama,10025,Mortality,4672840,2007
+Alabama,124415,Incidence,23737435,2009
+Alabama,50591,Mortality,23563366,2009
+Alabama,25254,Incidence,4718206,2008
+Alabama,10182,Mortality,4718206,2008
+Alabama,25189,Incidence,4757938,2009
+Alabama,10289,Mortality,4757938,2009
+Alabama,25048,Incidence,4784762,2010
+Alabama,10196,Mortality,4785401,2010
+Alabama,24768,Incidence,4803689,2011
+Alabama,10196,Mortality,4785401,2011
+Alaska,1967,Incidence,624779,1999
+Alaska,633,Mortality,624779,1999
+Alaska,2054,Incidence,627963,2000
+Alaska,704,Mortality,627963,2000
+Alaska,2188,Incidence,633714,2001
+Alaska,689,Mortality,633714,2001
+Alaska,2239,Incidence,642337,2002
+Alaska,715,Mortality,642337,2002
+Alaska,2264,Incidence,648414,2003
+Alaska,735,Mortality,648414,2003
+Alaska,2433,Incidence,659286,2004
+Alaska,728,Mortality,659286,2004
+Alaska,2370,Incidence,666946,2005
+Alaska,732,Mortality,666946,2005
+Alaska,2496,Incidence,675302,2006
+Alaska,790,Mortality,675302,2006
+Alaska,2515,Incidence,680300,2007
+Alaska,839,Mortality,680300,2007
+Alaska,13207,Incidence,3504556,2009
+Alaska,4275,Mortality,3456098,2009
+Alaska,2670,Incidence,687455,2008
+Alaska,867,Mortality,687455,2008
+Alaska,2646,Incidence,698895,2009
+Alaska,895,Mortality,698895,2009
+Alaska,2744,Incidence,714046,2010
+Alaska,884,Mortality,714146,2010
+Alaska,2632,Incidence,723860,2011
+Alaska,884,Mortality,714146,2011
+Arizona,21174,Incidence,5023823,1999
+Arizona,9006,Mortality,5023823,1999
+Arizona,21930,Incidence,5160586,2000
+Arizona,9073,Mortality,5160586,2000
+Arizona,23136,Incidence,5273477,2001
+Arizona,9142,Mortality,5273477,2001
+Arizona,23272,Incidence,5396255,2002
+Arizona,9359,Mortality,5396255,2002
+Arizona,23570,Incidence,5510364,2003
+Arizona,9625,Mortality,5510364,2003
+Arizona,24105,Incidence,5652404,2004
+Arizona,9618,Mortality,5652404,2004
+Arizona,24535,Incidence,5839077,2005
+Arizona,9820,Mortality,5839077,2005
+Arizona,25653,Incidence,6029141,2006
+Arizona,9918,Mortality,6029141,2006
+Arizona,26848,Incidence,6167681,2007
+Arizona,10133,Mortality,6167681,2007
+Arizona,135605,Incidence,31669322,2009
+Arizona,51081,Mortality,31233496,2009
+Arizona,26583,Incidence,6280362,2008
+Arizona,10081,Mortality,6280362,2008
+Arizona,27916,Incidence,6343154,2009
+Arizona,10271,Mortality,6343154,2009
+Arizona,26692,Incidence,6410810,2010
+Arizona,10678,Mortality,6413158,2010
+Arizona,27566,Incidence,6467315,2011
+Arizona,10678,Mortality,6413158,2011
+Arkansas,6137,Mortality,2651860,1999
+Arkansas,6090,Mortality,2678588,2000
+Arkansas,13215,Incidence,2691571,2001
+Arkansas,6091,Mortality,2691571,2001
+Arkansas,6282,Mortality,2705927,2002
+Arkansas,13823,Incidence,2724816,2003
+Arkansas,6119,Mortality,2724816,2003
+Arkansas,13906,Incidence,2749686,2004
+Arkansas,6304,Mortality,2749686,2004
+Arkansas,14184,Incidence,2781097,2005
+Arkansas,6361,Mortality,2781097,2005
+Arkansas,14397,Incidence,2821761,2006
+Arkansas,6177,Mortality,2821761,2006
+Arkansas,14838,Incidence,2848650,2007
+Arkansas,6388,Mortality,2848650,2007
+Arkansas,73906,Incidence,14481379,2009
+Arkansas,32079,Mortality,14363396,2009
+Arkansas,14756,Incidence,2874554,2008
+Arkansas,6526,Mortality,2874554,2008
+Arkansas,14793,Incidence,2896843,2009
+Arkansas,6513,Mortality,2896843,2009
+Arkansas,14777,Incidence,2922750,2010
+Arkansas,6475,Mortality,2921588,2010
+Arkansas,14742,Incidence,2938582,2011
+Arkansas,6475,Mortality,2921588,2011
+Atlanta,9451,Incidence,2850396,1999
+Atlanta,10059,Incidence,2929629,2000
+Atlanta,10543,Incidence,2979471,2001
+Atlanta,10939,Incidence,3006971,2002
+Atlanta,10822,Incidence,3031376,2003
+Atlanta,11248,Incidence,3058821,2004
+Atlanta,11482,Incidence,3101759,2005
+Atlanta,11798,Incidence,3182600,2006
+Atlanta,12708,Incidence,3245299,2007
+Atlanta,65697,Incidence,16688643,2009
+Atlanta,13032,Incidence,3296982,2008
+Atlanta,13258,Incidence,3337288,2009
+Atlanta,13157,Incidence,3376601,2010
+Atlanta,13542,Incidence,3432473,2011
+California,136240,Incidence,33499204,1999
+California,53064,Mortality,33499204,1999
+California,137226,Incidence,33987977,2000
+California,53155,Mortality,33987977,2000
+California,142070,Incidence,34479458,2001
+California,53923,Mortality,34479458,2001
+California,143752,Incidence,34871843,2002
+California,54143,Mortality,34871843,2002
+California,142244,Incidence,35253159,2003
+California,54319,Mortality,35253159,2003
+California,146057,Incidence,35574576,2004
+California,53700,Mortality,35574576,2004
+California,147862,Incidence,35827943,2005
+California,54729,Mortality,35827943,2005
+California,149319,Incidence,36021202,2006
+California,54140,Mortality,36021202,2006
+California,155597,Incidence,36250311,2007
+California,55011,Mortality,36250311,2007
+California,790676,Incidence,184834220,2009
+California,276280,Mortality,183175277,2009
+California,157667,Incidence,36604337,2008
+California,54686,Mortality,36604337,2008
+California,159397,Incidence,36961229,2009
+California,55990,Mortality,36961229,2009
+California,159368,Incidence,37334410,2010
+California,56453,Mortality,37338198,2010
+California,158647,Incidence,37683933,2011
+California,56453,Mortality,37338198,2011
+Colorado,16119,Incidence,4226018,1999
+Colorado,5862,Mortality,4226018,1999
+Colorado,16750,Incidence,4326921,2000
+Colorado,5922,Mortality,4326921,2000
+Colorado,17796,Incidence,4425687,2001
+Colorado,6145,Mortality,4425687,2001
+Colorado,17937,Incidence,4490406,2002
+Colorado,6384,Mortality,4490406,2002
+Colorado,18044,Incidence,4528732,2003
+Colorado,6417,Mortality,4528732,2003
+Colorado,18315,Incidence,4575013,2004
+Colorado,6196,Mortality,4575013,2004
+Colorado,18851,Incidence,4631888,2005
+Colorado,6395,Mortality,4631888,2005
+Colorado,19213,Incidence,4720423,2006
+Colorado,6550,Mortality,4720423,2006
+Colorado,20648,Incidence,4803868,2007
+Colorado,6617,Mortality,4803868,2007
+Colorado,105774,Incidence,24830567,2009
+Colorado,33871,Mortality,24433908,2009
+Colorado,20880,Incidence,4889730,2008
+Colorado,6719,Mortality,4889730,2008
+Colorado,21520,Incidence,4972195,2009
+Colorado,6950,Mortality,4972195,2009
+Colorado,21259,Incidence,5048472,2010
+Colorado,7035,Mortality,5047692,2010
+Colorado,21467,Incidence,5116302,2011
+Colorado,7035,Mortality,5047692,2011
+Connecticut,18671,Incidence,3386401,1999
+Connecticut,7054,Mortality,3386401,1999
+Connecticut,19173,Incidence,3411777,2000
+Connecticut,7065,Mortality,3411777,2000
+Connecticut,19578,Incidence,3432835,2001
+Connecticut,7093,Mortality,3432835,2001
+Connecticut,19516,Incidence,3458749,2002
+Connecticut,7163,Mortality,3458749,2002
+Connecticut,19457,Incidence,3484336,2003
+Connecticut,7130,Mortality,3484336,2003
+Connecticut,19419,Incidence,3496094,2004
+Connecticut,7174,Mortality,3496094,2004
+Connecticut,19690,Incidence,3506956,2005
+Connecticut,7052,Mortality,3506956,2005
+Connecticut,20449,Incidence,3517460,2006
+Connecticut,7044,Mortality,3517460,2006
+Connecticut,20453,Incidence,3527270,2007
+Connecticut,6827,Mortality,3527270,2007
+Connecticut,102697,Incidence,17797989,2009
+Connecticut,34474,Mortality,17727614,2009
+Connecticut,20540,Incidence,3545579,2008
+Connecticut,6830,Mortality,3545579,2008
+Connecticut,20876,Incidence,3561807,2009
+Connecticut,6819,Mortality,3561807,2009
+Connecticut,20460,Incidence,3576616,2010
+Connecticut,6954,Mortality,3575498,2010
+Connecticut,20368,Incidence,3586717,2011
+Connecticut,6954,Mortality,3575498,2011
+Delaware,3962,Incidence,774990,1999
+Delaware,1737,Mortality,774990,1999
+Delaware,4134,Incidence,786373,2000
+Delaware,1609,Mortality,786373,2000
+Delaware,4291,Incidence,795699,2001
+Delaware,1786,Mortality,795699,2001
+Delaware,4335,Incidence,806169,2002
+Delaware,1621,Mortality,806169,2002
+Delaware,4303,Incidence,818003,2003
+Delaware,1719,Mortality,818003,2003
+Delaware,4490,Incidence,830803,2004
+Delaware,1827,Mortality,830803,2004
+Delaware,4780,Incidence,845150,2005
+Delaware,1799,Mortality,845150,2005
+Delaware,4979,Incidence,859268,2006
+Delaware,1780,Mortality,859268,2006
+Delaware,5041,Incidence,871749,2007
+Delaware,1852,Mortality,871749,2007
+Delaware,25835,Incidence,4455314,2009
+Delaware,9266,Mortality,4406413,2009
+Delaware,5145,Incidence,883874,2008
+Delaware,1912,Mortality,883874,2008
+Delaware,5182,Incidence,891730,2009
+Delaware,1813,Mortality,891730,2009
+Delaware,5167,Incidence,899824,2010
+Delaware,1909,Mortality,899792,2010
+Delaware,5300,Incidence,908137,2011
+Delaware,1909,Mortality,899792,2011
+Detroit,21425,Incidence,4044440,1999
+Detroit,21541,Incidence,4044266,2000
+Detroit,22102,Incidence,4044163,2001
+Detroit,22387,Incidence,4032479,2002
+Detroit,21848,Incidence,4023892,2003
+Detroit,21763,Incidence,4011060,2004
+Detroit,21580,Incidence,3992281,2005
+Detroit,21841,Incidence,3968074,2006
+Detroit,22756,Incidence,3936557,2007
+Detroit,113119,Incidence,19432830,2009
+Detroit,22403,Incidence,3902460,2008
+Detroit,22518,Incidence,3877861,2009
+Detroit,22567,Incidence,3859925,2010
+Detroit,22875,Incidence,3856027,2011
+District of Columbia,2977,Incidence,570213,1999
+District of Columbia,1340,Mortality,570213,1999
+District of Columbia,2960,Incidence,572046,2000
+District of Columbia,1335,Mortality,572046,2000
+District of Columbia,1327,Mortality,574504,2001
+District of Columbia,1296,Mortality,573158,2002
+District of Columbia,3074,Incidence,568502,2003
+District of Columbia,1122,Mortality,568502,2003
+District of Columbia,2740,Incidence,567754,2004
+District of Columbia,1152,Mortality,567754,2004
+District of Columbia,2759,Incidence,567136,2005
+District of Columbia,1150,Mortality,567136,2005
+District of Columbia,2739,Incidence,570681,2006
+District of Columbia,1178,Mortality,570681,2006
+District of Columbia,2957,Incidence,574404,2007
+District of Columbia,1169,Mortality,574404,2007
+District of Columbia,14434,Incidence,2970877,2009
+District of Columbia,5662,Mortality,2922461,2009
+District of Columbia,2690,Incidence,580236,2008
+District of Columbia,1143,Mortality,580236,2008
+District of Columbia,2786,Incidence,592228,2009
+District of Columbia,1131,Mortality,592228,2009
+District of Columbia,2913,Incidence,604989,2010
+District of Columbia,1041,Mortality,604912,2010
+District of Columbia,3088,Incidence,619020,2011
+District of Columbia,1041,Mortality,604912,2011
+East North Central,220862,Incidence,44969225,1999
+East North Central,93654,Mortality,44969225,1999
+East North Central,221325,Incidence,45216019,2000
+East North Central,93631,Mortality,45216019,2000
+East North Central,228114,Incidence,45401564,2001
+East North Central,92879,Mortality,45401564,2001
+East North Central,230373,Incidence,45550284,2002
+East North Central,93588,Mortality,45550284,2002
+East North Central,228679,Incidence,45707787,2003
+East North Central,92830,Mortality,45707787,2003
+East North Central,230152,Incidence,45844372,2004
+East North Central,92295,Mortality,45844372,2004
+East North Central,232757,Incidence,45949142,2005
+East North Central,92785,Mortality,45949142,2005
+East North Central,237704,Incidence,46071573,2006
+East North Central,93078,Mortality,46071573,2006
+East North Central,242868,Incidence,46187992,2007
+East North Central,93171,Mortality,46187992,2007
+East North Central,1213409,Incidence,231758588,2009
+East North Central,467840,Mortality,231329911,2009
+East North Central,243992,Incidence,46275120,2008
+East North Central,93828,Mortality,46275120,2008
+East North Central,243866,Incidence,46355854,2009
+East North Central,93547,Mortality,46355854,2009
+East North Central,240973,Incidence,46435866,2010
+East North Central,94216,Mortality,46439372,2010
+East North Central,241710,Incidence,46503756,2011
+East North Central,94216,Mortality,46439372,2011
+East South Central,36515,Mortality,16915308,1999
+East South Central,37428,Mortality,17053266,2000
+East South Central,37346,Mortality,17139549,2001
+East South Central,37723,Mortality,17224563,2002
+East South Central,37763,Mortality,17336785,2003
+East South Central,85689,Incidence,17476649,2004
+East South Central,37484,Mortality,17476649,2004
+East South Central,89067,Incidence,17615945,2005
+East South Central,38478,Mortality,17615945,2005
+East South Central,92350,Incidence,17841964,2006
+East South Central,38580,Mortality,17841964,2006
+East South Central,95563,Incidence,18033589,2007
+East South Central,38879,Mortality,18033589,2007
+East South Central,489954,Incidence,91581669,2009
+East South Central,196082,Mortality,90878791,2009
+East South Central,97950,Incidence,18203301,2008
+East South Central,39098,Mortality,18203301,2008
+East South Central,98729,Incidence,18339805,2009
+East South Central,39535,Mortality,18339805,2009
+East South Central,99209,Incidence,18457227,2010
+East South Central,39990,Mortality,18460132,2010
+East South Central,98503,Incidence,18547747,2011
+East South Central,39990,Mortality,18460132,2011
+Florida,99205,Incidence,15759421,1999
+Florida,38477,Mortality,15759421,1999
+Florida,102081,Incidence,16047515,2000
+Florida,39183,Mortality,16047515,2000
+Florida,103198,Incidence,16356966,2001
+Florida,39088,Mortality,16356966,2001
+Florida,102277,Incidence,16689370,2002
+Florida,39139,Mortality,16689370,2002
+Florida,100993,Incidence,17004085,2003
+Florida,39404,Mortality,17004085,2003
+Florida,101111,Incidence,17415318,2004
+Florida,39840,Mortality,17415318,2004
+Florida,104159,Incidence,17842038,2005
+Florida,40592,Mortality,17842038,2005
+Florida,104843,Incidence,18166990,2006
+Florida,40415,Mortality,18166990,2006
+Florida,106928,Incidence,18367842,2007
+Florida,40088,Mortality,18367842,2007
+Florida,536794,Incidence,93476020,2009
+Florida,203715,Mortality,92553394,2009
+Florida,109125,Incidence,18527305,2008
+Florida,40814,Mortality,18527305,2008
+Florida,108186,Incidence,18652644,2009
+Florida,40931,Mortality,18652644,2009
+Florida,106493,Incidence,18845967,2010
+Florida,41467,Mortality,18838613,2010
+Florida,106062,Incidence,19082262,2011
+Florida,41467,Mortality,18838613,2011
+Georgia,30239,Incidence,8045965,1999
+Georgia,13225,Mortality,8045965,1999
+Georgia,32866,Incidence,8227303,2000
+Georgia,13690,Mortality,8227303,2000
+Georgia,34378,Incidence,8377038,2001
+Georgia,13818,Mortality,8377038,2001
+Georgia,35494,Incidence,8508256,2002
+Georgia,13975,Mortality,8508256,2002
+Georgia,35626,Incidence,8622793,2003
+Georgia,14032,Mortality,8622793,2003
+Georgia,36653,Incidence,8769252,2004
+Georgia,14313,Mortality,8769252,2004
+Georgia,37289,Incidence,8925922,2005
+Georgia,14358,Mortality,8925922,2005
+Georgia,39076,Incidence,9155813,2006
+Georgia,14474,Mortality,9155813,2006
+Georgia,41863,Incidence,9349988,2007
+Georgia,14983,Mortality,9349988,2007
+Georgia,215048,Incidence,48002885,2009
+Georgia,74652,Mortality,47343647,2009
+Georgia,42804,Incidence,9504843,2008
+Georgia,14621,Mortality,9504843,2008
+Georgia,43410,Incidence,9620846,2009
+Georgia,15139,Mortality,9620846,2009
+Georgia,42765,Incidence,9714748,2010
+Georgia,15435,Mortality,9712157,2010
+Georgia,44206,Incidence,9812460,2011
+Georgia,15435,Mortality,9712157,2011
+Hawaii,5366,Incidence,1210300,1999
+Hawaii,1916,Mortality,1210300,1999
+Hawaii,5248,Incidence,1213519,2000
+Hawaii,1943,Mortality,1213519,2000
+Hawaii,5576,Incidence,1225948,2001
+Hawaii,2024,Mortality,1225948,2001
+Hawaii,5603,Incidence,1239613,2002
+Hawaii,1945,Mortality,1239613,2002
+Hawaii,5728,Incidence,1251154,2003
+Hawaii,2133,Mortality,1251154,2003
+Hawaii,6000,Incidence,1273569,2004
+Hawaii,2088,Mortality,1273569,2004
+Hawaii,6099,Incidence,1292729,2005
+Hawaii,2169,Mortality,1292729,2005
+Hawaii,6177,Incidence,1309731,2006
+Hawaii,2171,Mortality,1309731,2006
+Hawaii,6392,Incidence,1315675,2007
+Hawaii,2214,Mortality,1315675,2007
+Hawaii,33239,Incidence,6737008,2009
+Hawaii,11089,Mortality,6667695,2009
+Hawaii,6619,Incidence,1332213,2008
+Hawaii,2194,Mortality,1332213,2008
+Hawaii,6766,Incidence,1346717,2009
+Hawaii,2244,Mortality,1346717,2009
+Hawaii,6703,Incidence,1364274,2010
+Hawaii,2266,Mortality,1363359,2010
+Hawaii,6759,Incidence,1378129,2011
+Hawaii,2266,Mortality,1363359,2011
+Idaho,5205,Incidence,1275674,1999
+Idaho,2162,Mortality,1275674,1999
+Idaho,5675,Incidence,1299430,2000
+Idaho,2128,Mortality,1299430,2000
+Idaho,5735,Incidence,1319962,2001
+Idaho,2093,Mortality,1319962,2001
+Idaho,5955,Incidence,1340372,2002
+Idaho,2138,Mortality,1340372,2002
+Idaho,6002,Incidence,1363380,2003
+Idaho,2321,Mortality,1363380,2003
+Idaho,6166,Incidence,1391802,2004
+Idaho,2227,Mortality,1391802,2004
+Idaho,6558,Incidence,1428241,2005
+Idaho,2368,Mortality,1428241,2005
+Idaho,6759,Incidence,1468669,2006
+Idaho,2306,Mortality,1468669,2006
+Idaho,7151,Incidence,1505105,2007
+Idaho,2405,Mortality,1505105,2007
+Idaho,36386,Incidence,7748392,2009
+Idaho,12210,Mortality,7633635,2009
+Idaho,7128,Incidence,1534320,2008
+Idaho,2511,Mortality,1534320,2008
+Idaho,7302,Incidence,1554439,2009
+Idaho,2458,Mortality,1554439,2009
+Idaho,7356,Incidence,1570784,2010
+Idaho,2530,Mortality,1571102,2010
+Idaho,7449,Incidence,1583744,2011
+Idaho,2530,Mortality,1571102,2011
+Illinois,58813,Incidence,12359020,1999
+Illinois,25024,Mortality,12359020,1999
+Illinois,59090,Incidence,12434161,2000
+Illinois,25365,Mortality,12434161,2000
+Illinois,60865,Incidence,12488445,2001
+Illinois,24778,Mortality,12488445,2001
+Illinois,62305,Incidence,12525556,2002
+Illinois,24737,Mortality,12525556,2002
+Illinois,60901,Incidence,12556006,2003
+Illinois,24464,Mortality,12556006,2003
+Illinois,61464,Incidence,12589773,2004
+Illinois,24289,Mortality,12589773,2004
+Illinois,61815,Incidence,12609903,2005
+Illinois,24250,Mortality,12609903,2005
+Illinois,63679,Incidence,12643955,2006
+Illinois,24083,Mortality,12643955,2006
+Illinois,64851,Incidence,12695866,2007
+Illinois,24113,Mortality,12695866,2007
+Illinois,327271,Incidence,63939893,2009
+Illinois,120746,Mortality,63725617,2009
+Illinois,66119,Incidence,12747038,2008
+Illinois,24298,Mortality,12747038,2008
+Illinois,66342,Incidence,12796778,2009
+Illinois,24182,Mortality,12796778,2009
+Illinois,64650,Incidence,12840459,2010
+Illinois,24070,Mortality,12841980,2010
+Illinois,65309,Incidence,12859752,2011
+Illinois,24070,Mortality,12841980,2011
+Indiana,27403,Incidence,6044969,1999
+Indiana,12898,Mortality,6044969,1999
+Indiana,28576,Incidence,6091866,2000
+Indiana,12842,Mortality,6091866,2000
+Indiana,29833,Incidence,6127760,2001
+Indiana,12831,Mortality,6127760,2001
+Indiana,30182,Incidence,6155967,2002
+Indiana,12865,Mortality,6155967,2002
+Indiana,30219,Incidence,6196638,2003
+Indiana,12929,Mortality,6196638,2003
+Indiana,30074,Incidence,6233007,2004
+Indiana,12552,Mortality,6233007,2004
+Indiana,30509,Incidence,6278616,2005
+Indiana,12796,Mortality,6278616,2005
+Indiana,31616,Incidence,6332669,2006
+Indiana,12903,Mortality,6332669,2006
+Indiana,31821,Incidence,6379599,2007
+Indiana,12778,Mortality,6379599,2007
+Indiana,159975,Incidence,32269939,2009
+Indiana,65074,Mortality,32087021,2009
+Indiana,32209,Incidence,6424806,2008
+Indiana,13136,Mortality,6424806,2008
+Indiana,32099,Incidence,6459325,2009
+Indiana,13093,Mortality,6459325,2009
+Indiana,32055,Incidence,6489856,2010
+Indiana,13164,Mortality,6490622,2010
+Indiana,31791,Incidence,6516353,2011
+Indiana,13164,Mortality,6490622,2011
+Iowa,15796,Incidence,2917634,1999
+Iowa,6346,Mortality,2917634,1999
+Iowa,15745,Incidence,2929067,2000
+Iowa,6448,Mortality,2929067,2000
+Iowa,16202,Incidence,2931997,2001
+Iowa,6404,Mortality,2931997,2001
+Iowa,16319,Incidence,2934234,2002
+Iowa,6473,Mortality,2934234,2002
+Iowa,16025,Incidence,2941999,2003
+Iowa,6469,Mortality,2941999,2003
+Iowa,16231,Incidence,2953635,2004
+Iowa,6340,Mortality,2953635,2004
+Iowa,16419,Incidence,2964454,2005
+Iowa,6453,Mortality,2964454,2005
+Iowa,16708,Incidence,2982644,2006
+Iowa,6359,Mortality,2982644,2006
+Iowa,16814,Incidence,2999212,2007
+Iowa,6376,Mortality,2999212,2007
+Iowa,85803,Incidence,15163234,2009
+Iowa,31766,Mortality,15081662,2009
+Iowa,16887,Incidence,3016734,2008
+Iowa,6424,Mortality,3016734,2008
+Iowa,17512,Incidence,3032870,2009
+Iowa,6249,Mortality,3032870,2009
+Iowa,17407,Incidence,3050321,2010
+Iowa,6358,Mortality,3050202,2010
+Iowa,17183,Incidence,3064097,2011
+Iowa,6358,Mortality,3050202,2011
+Kansas,13119,Incidence,2678338,1999
+Kansas,5334,Mortality,2678338,1999
+Kansas,13117,Incidence,2693681,2000
+Kansas,5223,Mortality,2693681,2000
+Kansas,13035,Incidence,2702162,2001
+Kansas,5448,Mortality,2702162,2001
+Kansas,13071,Incidence,2713535,2002
+Kansas,5362,Mortality,2713535,2002
+Kansas,13458,Incidence,2723004,2003
+Kansas,5332,Mortality,2723004,2003
+Kansas,13628,Incidence,2734373,2004
+Kansas,5312,Mortality,2734373,2004
+Kansas,13674,Incidence,2745299,2005
+Kansas,5428,Mortality,2745299,2005
+Kansas,13964,Incidence,2762931,2006
+Kansas,5343,Mortality,2762931,2006
+Kansas,14530,Incidence,2783785,2007
+Kansas,5406,Mortality,2783785,2007
+Kansas,72764,Incidence,14153788,2009
+Kansas,26739,Mortality,14046639,2009
+Kansas,14676,Incidence,2808076,2008
+Kansas,5294,Mortality,2808076,2008
+Kansas,14537,Incidence,2832704,2009
+Kansas,5319,Mortality,2832704,2009
+Kansas,14449,Incidence,2858837,2010
+Kansas,5377,Mortality,2859143,2010
+Kansas,14572,Incidence,2870386,2011
+Kansas,5377,Mortality,2859143,2011
+Kentucky,20882,Incidence,4018053,1999
+Kentucky,8925,Mortality,4018053,1999
+Kentucky,21348,Incidence,4049021,2000
+Kentucky,9207,Mortality,4049021,2000
+Kentucky,21887,Incidence,4068132,2001
+Kentucky,9358,Mortality,4068132,2001
+Kentucky,21878,Incidence,4089875,2002
+Kentucky,9438,Mortality,4089875,2002
+Kentucky,21989,Incidence,4117170,2003
+Kentucky,9378,Mortality,4117170,2003
+Kentucky,22470,Incidence,4146101,2004
+Kentucky,9159,Mortality,4146101,2004
+Kentucky,22720,Incidence,4182742,2005
+Kentucky,9505,Mortality,4182742,2005
+Kentucky,23915,Incidence,4219239,2006
+Kentucky,9394,Mortality,4219239,2006
+Kentucky,24475,Incidence,4256672,2007
+Kentucky,9692,Mortality,4256672,2007
+Kentucky,124058,Incidence,21577093,2009
+Kentucky,48239,Mortality,21430086,2009
+Kentucky,24601,Incidence,4289878,2008
+Kentucky,9589,Mortality,4289878,2008
+Kentucky,24799,Incidence,4317074,2009
+Kentucky,9634,Mortality,4317074,2009
+Kentucky,25297,Incidence,4346655,2010
+Kentucky,9930,Mortality,4347223,2010
+Kentucky,24886,Incidence,4366814,2011
+Kentucky,9930,Mortality,4347223,2011
+Los Angeles,35392,Incidence,9437290,1999
+Los Angeles,35272,Incidence,9538191,2000
+Los Angeles,36591,Incidence,9626034,2001
+Los Angeles,36502,Incidence,9705913,2002
+Los Angeles,36120,Incidence,9767145,2003
+Los Angeles,37216,Incidence,9793263,2004
+Los Angeles,37338,Incidence,9786373,2005
+Los Angeles,36690,Incidence,9737955,2006
+Los Angeles,38448,Incidence,9700359,2007
+Los Angeles,193541,Incidence,48937692,2009
+Los Angeles,38602,Incidence,9735147,2008
+Los Angeles,39240,Incidence,9787400,2009
+Los Angeles,38747,Incidence,9825761,2010
+Los Angeles,38504,Incidence,9889025,2011
+Louisiana,20423,Incidence,4460811,1999
+Louisiana,9412,Mortality,4460811,1999
+Louisiana,20709,Incidence,4471885,2000
+Louisiana,9400,Mortality,4471885,2000
+Louisiana,21403,Incidence,4477875,2001
+Louisiana,9517,Mortality,4477875,2001
+Louisiana,21551,Incidence,4497267,2002
+Louisiana,9441,Mortality,4497267,2002
+Louisiana,21593,Incidence,4521042,2003
+Louisiana,9532,Mortality,4521042,2003
+Louisiana,22046,Incidence,4552238,2004
+Louisiana,9434,Mortality,4552238,2004
+Louisiana,21048,Incidence,4411396,2005
+Louisiana,9249,Mortality,4411396,2005
+Louisiana,21542,Incidence,4302665,2006
+Louisiana,8853,Mortality,4302665,2006
+Louisiana,22376,Incidence,4375581,2007
+Louisiana,8736,Mortality,4375581,2007
+Louisiana,115976,Incidence,22421706,2009
+Louisiana,45087,Mortality,22150823,2009
+Louisiana,22847,Incidence,4435586,2008
+Louisiana,9197,Mortality,4435586,2008
+Louisiana,23436,Incidence,4491648,2009
+Louisiana,9098,Mortality,4491648,2009
+Louisiana,23476,Incidence,4544125,2010
+Louisiana,9203,Mortality,4545343,2010
+Louisiana,23841,Incidence,4574766,2011
+Louisiana,9203,Mortality,4545343,2011
+Maine,7157,Incidence,1266808,1999
+Maine,3035,Mortality,1266808,1999
+Maine,7575,Incidence,1277072,2000
+Maine,3070,Mortality,1277072,2000
+Maine,7841,Incidence,1285692,2001
+Maine,3045,Mortality,1285692,2001
+Maine,7885,Incidence,1295960,2002
+Maine,3206,Mortality,1295960,2002
+Maine,7917,Incidence,1306513,2003
+Maine,3120,Mortality,1306513,2003
+Maine,8332,Incidence,1313688,2004
+Maine,3124,Mortality,1313688,2004
+Maine,8289,Incidence,1318787,2005
+Maine,3218,Mortality,1318787,2005
+Maine,8620,Incidence,1323619,2006
+Maine,3089,Mortality,1323619,2006
+Maine,8522,Incidence,1327040,2007
+Maine,3112,Mortality,1327040,2007
+Maine,41887,Incidence,6643268,2009
+Maine,15674,Mortality,6638137,2009
+Maine,8449,Incidence,1330509,2008
+Maine,3093,Mortality,1330509,2008
+Maine,8314,Incidence,1329590,2009
+Maine,3133,Mortality,1329590,2009
+Maine,8348,Incidence,1327585,2010
+Maine,3247,Mortality,1327379,2010
+Maine,8254,Incidence,1328544,2011
+Maine,3247,Mortality,1327379,2011
+Maryland,24778,Incidence,5254509,1999
+Maryland,10143,Mortality,5254509,1999
+Maryland,25110,Incidence,5311034,2000
+Maryland,10289,Mortality,5311034,2000
+Maryland,10322,Mortality,5374691,2001
+Maryland,26407,Incidence,5440389,2002
+Maryland,10395,Mortality,5440389,2002
+Maryland,27179,Incidence,5496269,2003
+Maryland,10292,Mortality,5496269,2003
+Maryland,25450,Incidence,5546935,2004
+Maryland,10168,Mortality,5546935,2004
+Maryland,25769,Incidence,5592379,2005
+Maryland,10371,Mortality,5592379,2005
+Maryland,25889,Incidence,5627367,2006
+Maryland,10350,Mortality,5627367,2006
+Maryland,27765,Incidence,5653408,2007
+Maryland,10179,Mortality,5653408,2007
+Maryland,140550,Incidence,28696331,2009
+Maryland,51569,Mortality,28481809,2009
+Maryland,28514,Incidence,5684965,2008
+Maryland,10360,Mortality,5684965,2008
+Maryland,28070,Incidence,5730388,2009
+Maryland,10412,Mortality,5730388,2009
+Maryland,28399,Incidence,5787998,2010
+Maryland,10268,Mortality,5785681,2010
+Maryland,27802,Incidence,5839572,2011
+Maryland,10268,Mortality,5785681,2011
+Massachusetts,33926,Incidence,6317345,1999
+Massachusetts,13853,Mortality,6317345,1999
+Massachusetts,34483,Incidence,6361104,2000
+Massachusetts,14027,Mortality,6361104,2000
+Massachusetts,35247,Incidence,6397634,2001
+Massachusetts,13750,Mortality,6397634,2001
+Massachusetts,35932,Incidence,6417206,2002
+Massachusetts,13914,Mortality,6417206,2002
+Massachusetts,35093,Incidence,6422565,2003
+Massachusetts,13551,Mortality,6422565,2003
+Massachusetts,35448,Incidence,6412281,2004
+Massachusetts,13337,Mortality,6412281,2004
+Massachusetts,35909,Incidence,6403290,2005
+Massachusetts,13182,Mortality,6403290,2005
+Massachusetts,37086,Incidence,6410084,2006
+Massachusetts,13407,Mortality,6410084,2006
+Massachusetts,36885,Incidence,6431559,2007
+Massachusetts,13003,Mortality,6431559,2007
+Massachusetts,183629,Incidence,32588401,2009
+Massachusetts,65546,Mortality,32383689,2009
+Massachusetts,37441,Incidence,6468967,2008
+Massachusetts,13031,Mortality,6468967,2008
+Massachusetts,37306,Incidence,6517613,2009
+Massachusetts,13112,Mortality,6517613,2009
+Massachusetts,35442,Incidence,6563259,2010
+Massachusetts,12993,Mortality,6555466,2010
+Massachusetts,36555,Incidence,6607003,2011
+Massachusetts,12993,Mortality,6555466,2011
+Michigan,50701,Incidence,9897116,1999
+Michigan,19744,Mortality,9897116,1999
+Michigan,51232,Incidence,9952450,2000
+Michigan,19798,Mortality,9952450,2000
+Michigan,51812,Incidence,9991120,2001
+Michigan,19689,Mortality,9991120,2001
+Michigan,52750,Incidence,10015710,2002
+Michigan,19985,Mortality,10015710,2002
+Michigan,53079,Incidence,10041152,2003
+Michigan,19713,Mortality,10041152,2003
+Michigan,52103,Incidence,10055315,2004
+Michigan,19653,Mortality,10055315,2004
+Michigan,52788,Incidence,10051137,2005
+Michigan,20094,Mortality,10051137,2005
+Michigan,53443,Incidence,10036081,2006
+Michigan,20192,Mortality,10036081,2006
+Michigan,55753,Incidence,10001284,2007
+Michigan,20087,Mortality,10001284,2007
+Michigan,271880,Incidence,49604235,2009
+Michigan,101367,Mortality,49762988,2009
+Michigan,53468,Incidence,9946889,2008
+Michigan,20211,Mortality,9946889,2008
+Michigan,53743,Incidence,9901591,2009
+Michigan,20257,Mortality,9901591,2009
+Michigan,54782,Incidence,9877670,2010
+Michigan,20620,Mortality,9877143,2010
+Michigan,54134,Incidence,9876801,2011
+Michigan,20620,Mortality,9877143,2011
+Middle Atlantic,210338,Incidence,39506122,1999
+Middle Atlantic,86097,Mortality,39506122,1999
+Middle Atlantic,214625,Incidence,39716574,2000
+Middle Atlantic,85429,Mortality,39716574,2000
+Middle Atlantic,221073,Incidence,39874479,2001
+Middle Atlantic,85052,Mortality,39874479,2001
+Middle Atlantic,221469,Incidence,40021474,2002
+Middle Atlantic,84336,Mortality,40021474,2002
+Middle Atlantic,218846,Incidence,40151999,2003
+Middle Atlantic,84034,Mortality,40151999,2003
+Middle Atlantic,219851,Incidence,40216850,2004
+Middle Atlantic,82728,Mortality,40216850,2004
+Middle Atlantic,222231,Incidence,40234574,2005
+Middle Atlantic,82341,Mortality,40234574,2005
+Middle Atlantic,228774,Incidence,40277119,2006
+Middle Atlantic,81633,Mortality,40277119,2006
+Middle Atlantic,232228,Incidence,40374157,2007
+Middle Atlantic,81594,Mortality,40374157,2007
+Middle Atlantic,1165877,Incidence,203633769,2009
+Middle Atlantic,406350,Mortality,202829134,2009
+Middle Atlantic,233528,Incidence,40535811,2008
+Middle Atlantic,81188,Mortality,40535811,2008
+Middle Atlantic,234522,Incidence,40729526,2009
+Middle Atlantic,80634,Mortality,40729526,2009
+Middle Atlantic,230835,Incidence,40913938,2010
+Middle Atlantic,81301,Mortality,40912521,2010
+Middle Atlantic,234764,Incidence,41080337,2011
+Middle Atlantic,81301,Mortality,40912521,2011
+Midwest,0,Incidence,63349649,1999
+Midwest,132820,Mortality,64100061,1999
+Midwest,0,Incidence,63735587,2000
+Midwest,132986,Mortality,64491431,2000
+Midwest,0,Incidence,64137469,2001
+Midwest,132433,Mortality,64776531,2001
+Midwest,328617,Incidence,65018293,2002
+Midwest,133243,Mortality,65018293,2002
+Midwest,326603,Incidence,65276954,2003
+Midwest,132476,Mortality,65276954,2003
+Midwest,329478,Incidence,65532305,2004
+Midwest,131579,Mortality,65532305,2004
+Midwest,334392,Incidence,65751872,2005
+Midwest,132175,Mortality,65751872,2005
+Midwest,341040,Incidence,66028555,2006
+Midwest,132765,Mortality,66028555,2006
+Midwest,348903,Incidence,66293689,2007
+Midwest,132864,Mortality,66293689,2007
+Midwest,1746736,Incidence,333683285,2009
+Midwest,667243,Mortality,332571074,2009
+Midwest,350011,Incidence,66523935,2008
+Midwest,133814,Mortality,66523935,2008
+Midwest,350808,Incidence,66748437,2009
+Midwest,133249,Mortality,66748437,2009
+Midwest,347209,Incidence,66972135,2010
+Midwest,134551,Mortality,66976458,2010
+Midwest,349805,Incidence,67145089,2011
+Midwest,134551,Mortality,66976458,2011
+Minnesota,21922,Incidence,4873481,1999
+Minnesota,8892,Mortality,4873481,1999
+Minnesota,22812,Incidence,4933692,2000
+Minnesota,9215,Mortality,4933692,2000
+Minnesota,23686,Incidence,4982796,2001
+Minnesota,8967,Mortality,4982796,2001
+Minnesota,23860,Incidence,5018935,2002
+Minnesota,9210,Mortality,5018935,2002
+Minnesota,23723,Incidence,5053572,2003
+Minnesota,9183,Mortality,5053572,2003
+Minnesota,24508,Incidence,5087713,2004
+Minnesota,9093,Mortality,5087713,2004
+Minnesota,24628,Incidence,5119598,2005
+Minnesota,8823,Mortality,5119598,2005
+Minnesota,25504,Incidence,5163555,2006
+Minnesota,9079,Mortality,5163555,2006
+Minnesota,26791,Incidence,5207203,2007
+Minnesota,9176,Mortality,5207203,2007
+Minnesota,136466,Incidence,26393460,2009
+Minnesota,46893,Mortality,26209637,2009
+Minnesota,26959,Incidence,5247018,2008
+Minnesota,9446,Mortality,5247018,2008
+Minnesota,26852,Incidence,5281203,2009
+Minnesota,9580,Mortality,5281203,2009
+Minnesota,27029,Incidence,5310737,2010
+Minnesota,9612,Mortality,5310658,2010
+Minnesota,28835,Incidence,5347299,2011
+Minnesota,9612,Mortality,5310658,2011
+Mississippi,6143,Mortality,2828408,1999
+Mississippi,6075,Mortality,2848353,2000
+Mississippi,5958,Mortality,2852994,2001
+Mississippi,6069,Mortality,2858681,2002
+Mississippi,13163,Incidence,2868312,2003
+Mississippi,5960,Mortality,2868312,2003
+Mississippi,13471,Incidence,2889010,2004
+Mississippi,5983,Mortality,2889010,2004
+Mississippi,13618,Incidence,2876229,2005
+Mississippi,6065,Mortality,2876229,2005
+Mississippi,14179,Incidence,2904978,2006
+Mississippi,6236,Mortality,2904978,2006
+Mississippi,14934,Incidence,2928350,2007
+Mississippi,6001,Mortality,2928350,2007
+Mississippi,75440,Incidence,14781524,2009
+Mississippi,30803,Mortality,14709980,2009
+Mississippi,15261,Incidence,2947806,2008
+Mississippi,6165,Mortality,2947806,2008
+Mississippi,14927,Incidence,2958774,2009
+Mississippi,6130,Mortality,2958774,2009
+Mississippi,15291,Incidence,2969137,2010
+Mississippi,6271,Mortality,2970072,2010
+Mississippi,15027,Incidence,2977457,2011
+Mississippi,6271,Mortality,2970072,2011
+Missouri,27685,Incidence,5561948,1999
+Missouri,12186,Mortality,5561948,1999
+Missouri,27474,Incidence,5607285,2000
+Missouri,12144,Mortality,5607285,2000
+Missouri,28291,Incidence,5641142,2001
+Missouri,12365,Mortality,5641142,2001
+Missouri,28594,Incidence,5674825,2002
+Missouri,12322,Mortality,5674825,2002
+Missouri,28845,Incidence,5709403,2003
+Missouri,12353,Mortality,5709403,2003
+Missouri,28844,Incidence,5747741,2004
+Missouri,12449,Mortality,5747741,2004
+Missouri,30521,Incidence,5790300,2005
+Missouri,12417,Mortality,5790300,2005
+Missouri,30729,Incidence,5842704,2006
+Missouri,12519,Mortality,5842704,2006
+Missouri,30959,Incidence,5887612,2007
+Missouri,12380,Mortality,5887612,2007
+Missouri,154879,Incidence,29777692,2009
+Missouri,62519,Mortality,29611035,2009
+Missouri,30884,Incidence,5923916,2008
+Missouri,12522,Mortality,5923916,2008
+Missouri,31675,Incidence,5961088,2009
+Missouri,12472,Mortality,5961088,2009
+Missouri,30745,Incidence,5996092,2010
+Missouri,12626,Mortality,5995715,2010
+Missouri,30616,Incidence,6008984,2011
+Missouri,12626,Mortality,5995715,2011
+Montana,4570,Incidence,897507,1999
+Montana,1854,Mortality,897507,1999
+Montana,4768,Incidence,903773,2000
+Montana,1867,Mortality,903773,2000
+Montana,4971,Incidence,906961,2001
+Montana,1956,Mortality,906961,2001
+Montana,4974,Incidence,911667,2002
+Montana,1911,Mortality,911667,2002
+Montana,4961,Incidence,919630,2003
+Montana,1847,Mortality,919630,2003
+Montana,4892,Incidence,930009,2004
+Montana,1867,Mortality,930009,2004
+Montana,5209,Incidence,940102,2005
+Montana,1956,Mortality,940102,2005
+Montana,5159,Incidence,952692,2006
+Montana,1943,Mortality,952692,2006
+Montana,5323,Incidence,964706,2007
+Montana,1921,Mortality,964706,2007
+Montana,27427,Incidence,4913505,2009
+Montana,9563,Mortality,4868753,2009
+Montana,5335,Incidence,976415,2008
+Montana,1862,Mortality,976415,2008
+Montana,5563,Incidence,983982,2009
+Montana,1914,Mortality,983982,2009
+Montana,5573,Incidence,990735,2010
+Montana,1923,Mortality,990958,2010
+Montana,5633,Incidence,997667,2011
+Montana,1923,Mortality,990958,2011
+Mountain,28589,Mortality,17861084,1999
+Mountain,74735,Incidence,18269457,2000
+Mountain,28883,Mortality,18269457,2000
+Mountain,78371,Incidence,18634548,2001
+Mountain,29286,Mortality,18634548,2001
+Mountain,79625,Incidence,18992632,2002
+Mountain,30031,Mortality,18992632,2002
+Mountain,80524,Incidence,19312120,2003
+Mountain,30837,Mortality,19312120,2003
+Mountain,82526,Incidence,19709944,2004
+Mountain,30382,Mortality,19709944,2004
+Mountain,84157,Incidence,20175601,2005
+Mountain,31324,Mortality,20175601,2005
+Mountain,87234,Incidence,20703894,2006
+Mountain,31631,Mortality,20703894,2006
+Mountain,90333,Incidence,21165124,2007
+Mountain,32155,Mortality,21165124,2007
+Mountain,0,Incidence,95688890,2009
+Mountain,162710,Mortality,107414857,2009
+Mountain,92091,Incidence,21554191,2008
+Mountain,32298,Mortality,21554191,2008
+Mountain,95032,Incidence,21858509,2009
+Mountain,32747,Mortality,21858509,2009
+Mountain,93524,Incidence,22128786,2010
+Mountain,33879,Mortality,22133139,2010
+Mountain,33879,Mortality,22133139,2011
+Nebraska,8500,Incidence,1704764,1999
+Nebraska,3410,Mortality,1704764,1999
+Nebraska,8558,Incidence,1713820,2000
+Nebraska,3382,Mortality,1713820,2000
+Nebraska,8637,Incidence,1719836,2001
+Nebraska,3389,Mortality,1719836,2001
+Nebraska,8768,Incidence,1728292,2002
+Nebraska,3433,Mortality,1728292,2002
+Nebraska,8599,Incidence,1738643,2003
+Nebraska,3339,Mortality,1738643,2003
+Nebraska,8788,Incidence,1749370,2004
+Nebraska,3270,Mortality,1749370,2004
+Nebraska,9013,Incidence,1761497,2005
+Nebraska,3355,Mortality,1761497,2005
+Nebraska,9134,Incidence,1772693,2006
+Nebraska,3430,Mortality,1772693,2006
+Nebraska,9360,Incidence,1783440,2007
+Nebraska,3479,Mortality,1783440,2007
+Nebraska,45318,Incidence,9064431,2009
+Nebraska,17059,Mortality,8995335,2009
+Nebraska,9150,Incidence,1796378,2008
+Nebraska,3376,Mortality,1796378,2008
+Nebraska,8796,Incidence,1812683,2009
+Nebraska,3336,Mortality,1812683,2009
+Nebraska,9037,Incidence,1829696,2010
+Nebraska,3438,Mortality,1830141,2010
+Nebraska,8975,Incidence,1842234,2011
+Nebraska,3438,Mortality,1830141,2011
+Nevada,3556,Mortality,1934718,1999
+Nevada,9586,Incidence,2018741,2000
+Nevada,3762,Mortality,2018741,2000
+Nevada,9849,Incidence,2098399,2001
+Nevada,3814,Mortality,2098399,2001
+Nevada,10249,Incidence,2173791,2002
+Nevada,3937,Mortality,2173791,2002
+Nevada,10299,Incidence,2248850,2003
+Nevada,4137,Mortality,2248850,2003
+Nevada,10716,Incidence,2346222,2004
+Nevada,4119,Mortality,2346222,2004
+Nevada,10579,Incidence,2432143,2005
+Nevada,4238,Mortality,2432143,2005
+Nevada,11237,Incidence,2522658,2006
+Nevada,4225,Mortality,2522658,2006
+Nevada,10695,Incidence,2601072,2007
+Nevada,4331,Mortality,2601072,2007
+Nevada,21950,Mortality,13166308,2009
+Nevada,11909,Incidence,2653630,2008
+Nevada,4404,Mortality,2653630,2008
+Nevada,12249,Incidence,2684665,2009
+Nevada,4461,Mortality,2684665,2009
+Nevada,11646,Incidence,2703758,2010
+Nevada,4529,Mortality,2704283,2010
+Nevada,4529,Mortality,2704283,2011
+New England,74901,Incidence,13837653,1999
+New England,30068,Mortality,13837653,1999
+New England,76684,Incidence,13949721,2000
+New England,30319,Mortality,13949721,2000
+New England,78538,Incidence,14041043,2001
+New England,29933,Mortality,14041043,2001
+New England,79614,Incidence,14122441,2002
+New England,30439,Mortality,14122441,2002
+New England,78570,Incidence,14182454,2003
+New England,29824,Mortality,14182454,2003
+New England,79846,Incidence,14206683,2004
+New England,29819,Mortality,14206683,2004
+New England,80545,Incidence,14216656,2005
+New England,29494,Mortality,14216656,2005
+New England,83389,Incidence,14245540,2006
+New England,29538,Mortality,14245540,2006
+New England,83216,Incidence,14279205,2007
+New England,29110,Mortality,14279205,2007
+New England,414308,Incidence,72003192,2009
+New England,146161,Mortality,71722022,2009
+New England,83873,Incidence,14340115,2008
+New England,29036,Mortality,14340115,2008
+New England,83915,Incidence,14403575,2009
+New England,29100,Mortality,14403575,2009
+New England,81163,Incidence,14462988,2010
+New England,29377,Mortality,14453587,2010
+New England,82141,Incidence,14517309,2011
+New England,29377,Mortality,14453587,2011
+New Hampshire,5860,Incidence,1222014,1999
+New Hampshire,2408,Mortality,1222014,1999
+New Hampshire,6196,Incidence,1239882,2000
+New Hampshire,2484,Mortality,1239882,2000
+New Hampshire,6502,Incidence,1255517,2001
+New Hampshire,2398,Mortality,1255517,2001
+New Hampshire,6847,Incidence,1269089,2002
+New Hampshire,2529,Mortality,1269089,2002
+New Hampshire,6736,Incidence,1279840,2003
+New Hampshire,2485,Mortality,1279840,2003
+New Hampshire,6985,Incidence,1290121,2004
+New Hampshire,2554,Mortality,1290121,2004
+New Hampshire,7216,Incidence,1298492,2005
+New Hampshire,2549,Mortality,1298492,2005
+New Hampshire,7261,Incidence,1308389,2006
+New Hampshire,2534,Mortality,1308389,2006
+New Hampshire,7418,Incidence,1312540,2007
+New Hampshire,2609,Mortality,1312540,2007
+New Hampshire,38013,Incidence,6579198,2009
+New Hampshire,12806,Mortality,6569744,2009
+New Hampshire,7686,Incidence,1315906,2008
+New Hampshire,2576,Mortality,1315906,2008
+New Hampshire,7565,Incidence,1316102,2009
+New Hampshire,2562,Mortality,1316102,2009
+New Hampshire,7640,Incidence,1316843,2010
+New Hampshire,2525,Mortality,1316807,2010
+New Hampshire,7704,Incidence,1317807,2011
+New Hampshire,2525,Mortality,1316807,2011
+New Jersey,45270,Incidence,8359592,1999
+New Jersey,18177,Mortality,8359592,1999
+New Jersey,46328,Incidence,8430621,2000
+New Jersey,18072,Mortality,8430621,2000
+New Jersey,48612,Incidence,8492671,2001
+New Jersey,18164,Mortality,8492671,2001
+New Jersey,48278,Incidence,8552643,2002
+New Jersey,17827,Mortality,8552643,2002
+New Jersey,46460,Incidence,8601402,2003
+New Jersey,17957,Mortality,8601402,2003
+New Jersey,46715,Incidence,8634561,2004
+New Jersey,17206,Mortality,8634561,2004
+New Jersey,46963,Incidence,8651974,2005
+New Jersey,17171,Mortality,8651974,2005
+New Jersey,48512,Incidence,8661679,2006
+New Jersey,17180,Mortality,8661679,2006
+New Jersey,49062,Incidence,8677885,2007
+New Jersey,17096,Mortality,8677885,2007
+New Jersey,243496,Incidence,43782738,2009
+New Jersey,84505,Mortality,43605849,2009
+New Jersey,48870,Incidence,8711090,2008
+New Jersey,16874,Mortality,8711090,2008
+New Jersey,49181,Incidence,8755602,2009
+New Jersey,16540,Mortality,8755602,2009
+New Jersey,48333,Incidence,8803388,2010
+New Jersey,16815,Mortality,8799593,2010
+New Jersey,48050,Incidence,8834773,2011
+New Jersey,16815,Mortality,8799593,2011
+New Mexico,7281,Incidence,1808082,1999
+New Mexico,2857,Mortality,1808082,1999
+New Mexico,7246,Incidence,1821204,2000
+New Mexico,2905,Mortality,1821204,2000
+New Mexico,7651,Incidence,1831690,2001
+New Mexico,2900,Mortality,1831690,2001
+New Mexico,7849,Incidence,1855309,2002
+New Mexico,3067,Mortality,1855309,2002
+New Mexico,7811,Incidence,1877574,2003
+New Mexico,3103,Mortality,1877574,2003
+New Mexico,8219,Incidence,1903808,2004
+New Mexico,3035,Mortality,1903808,2004
+New Mexico,8238,Incidence,1932274,2005
+New Mexico,3141,Mortality,1932274,2005
+New Mexico,8450,Incidence,1962137,2006
+New Mexico,3147,Mortality,1962137,2006
+New Mexico,8716,Incidence,1990070,2007
+New Mexico,3236,Mortality,1990070,2007
+New Mexico,44071,Incidence,10180975,2009
+New Mexico,16298,Mortality,10065584,2009
+New Mexico,8897,Incidence,2010662,2008
+New Mexico,3355,Mortality,2010662,2008
+New Mexico,8884,Incidence,2036802,2009
+New Mexico,3202,Mortality,2036802,2009
+New Mexico,8900,Incidence,2064767,2010
+New Mexico,3358,Mortality,2065913,2010
+New Mexico,8674,Incidence,2078674,2011
+New Mexico,3358,Mortality,2065913,2011
+New York,94248,Incidence,18882725,1999
+New York,37609,Mortality,18882725,1999
+New York,97004,Incidence,19001780,2000
+New York,37197,Mortality,19001780,2000
+New York,97891,Incidence,19082838,2001
+New York,36975,Mortality,19082838,2001
+New York,99223,Incidence,19137800,2002
+New York,36660,Mortality,19137800,2002
+New York,99407,Incidence,19175939,2003
+New York,36238,Mortality,19175939,2003
+New York,100249,Incidence,19171567,2004
+New York,36100,Mortality,19171567,2004
+New York,101675,Incidence,19132610,2005
+New York,35555,Mortality,19132610,2005
+New York,104581,Incidence,19104631,2006
+New York,35283,Mortality,19104631,2006
+New York,106345,Incidence,19132335,2007
+New York,35485,Mortality,19132335,2007
+New York,536772,Incidence,96552695,2009
+New York,176765,Mortality,96151674,2009
+New York,107896,Incidence,19212436,2008
+New York,35351,Mortality,19212436,2008
+New York,108342,Incidence,19307066,2009
+New York,35215,Mortality,19307066,2009
+New York,105635,Incidence,19399242,2010
+New York,35431,Mortality,19395206,2010
+New York,108554,Incidence,19501616,2011
+New York,35431,Mortality,19395206,2011
+North Carolina,34338,Incidence,7949361,1999
+North Carolina,15815,Mortality,7949361,1999
+North Carolina,36271,Incidence,8081614,2000
+North Carolina,15785,Mortality,8081614,2000
+North Carolina,37163,Incidence,8210122,2001
+North Carolina,16065,Mortality,8210122,2001
+North Carolina,37858,Incidence,8326201,2002
+North Carolina,16210,Mortality,8326201,2002
+North Carolina,38582,Incidence,8422501,2003
+North Carolina,16145,Mortality,8422501,2003
+North Carolina,41384,Incidence,8553152,2004
+North Carolina,16477,Mortality,8553152,2004
+North Carolina,43603,Incidence,8705407,2005
+North Carolina,16724,Mortality,8705407,2005
+North Carolina,44799,Incidence,8917270,2006
+North Carolina,17318,Mortality,8917270,2006
+North Carolina,46644,Incidence,9118037,2007
+North Carolina,17478,Mortality,9118037,2007
+North Carolina,241042,Incidence,47087203,2009
+North Carolina,87822,Mortality,46354556,2009
+North Carolina,47408,Incidence,9309449,2008
+North Carolina,17453,Mortality,9309449,2008
+North Carolina,49085,Incidence,9449566,2009
+North Carolina,17513,Mortality,9449566,2009
+North Carolina,48840,Incidence,9559048,2010
+North Carolina,18060,Mortality,9560234,2010
+North Carolina,49065,Incidence,9651103,2011
+North Carolina,18060,Mortality,9560234,2011
+North Dakota,3184,Incidence,644259,1999
+North Dakota,1366,Mortality,644259,1999
+North Dakota,3198,Incidence,642023,2000
+North Dakota,1346,Mortality,642023,2000
+North Dakota,1391,Mortality,639062,2001
+North Dakota,3310,Incidence,638168,2002
+North Dakota,1293,Mortality,638168,2002
+North Dakota,3293,Incidence,638817,2003
+North Dakota,1334,Mortality,638817,2003
+North Dakota,3328,Incidence,644705,2004
+North Dakota,1265,Mortality,644705,2004
+North Dakota,3474,Incidence,646089,2005
+North Dakota,1302,Mortality,646089,2005
+North Dakota,3486,Incidence,649422,2006
+North Dakota,1387,Mortality,649422,2006
+North Dakota,3535,Incidence,652822,2007
+North Dakota,1264,Mortality,652822,2007
+North Dakota,17532,Incidence,3334462,2009
+North Dakota,6517,Mortality,3299410,2009
+North Dakota,3457,Incidence,657569,2008
+North Dakota,1354,Mortality,657569,2008
+North Dakota,3420,Incidence,664968,2009
+North Dakota,1243,Mortality,664968,2009
+North Dakota,3520,Incidence,674363,2010
+North Dakota,1269,Mortality,674629,2010
+North Dakota,3600,Incidence,684740,2011
+North Dakota,1269,Mortality,674629,2011
+Northeast,285239,Incidence,53343775,1999
+Northeast,116165,Mortality,53343775,1999
+Northeast,291309,Incidence,53666295,2000
+Northeast,115748,Mortality,53666295,2000
+Northeast,299611,Incidence,53915522,2001
+Northeast,114985,Mortality,53915522,2001
+Northeast,301083,Incidence,54143915,2002
+Northeast,114775,Mortality,54143915,2002
+Northeast,297416,Incidence,54334453,2003
+Northeast,113858,Mortality,54334453,2003
+Northeast,299697,Incidence,54423533,2004
+Northeast,112547,Mortality,54423533,2004
+Northeast,302776,Incidence,54451230,2005
+Northeast,111835,Mortality,54451230,2005
+Northeast,312163,Incidence,54522659,2006
+Northeast,111171,Mortality,54522659,2006
+Northeast,315444,Incidence,54653362,2007
+Northeast,110704,Mortality,54653362,2007
+Northeast,1580185,Incidence,275636961,2009
+Northeast,552511,Mortality,274551156,2009
+Northeast,317401,Incidence,54875926,2008
+Northeast,110224,Mortality,54875926,2008
+Northeast,318437,Incidence,55133101,2009
+Northeast,109734,Mortality,55133101,2009
+Northeast,311998,Incidence,55376926,2010
+Northeast,110678,Mortality,55366108,2010
+Northeast,316905,Incidence,55597646,2011
+Northeast,110678,Mortality,55366108,2011
+Ohio,57027,Incidence,11335454,1999
+Ohio,25233,Mortality,11335454,1999
+Ohio,55706,Incidence,11363543,2000
+Ohio,24988,Mortality,11363543,2000
+Ohio,57519,Incidence,11387404,2001
+Ohio,24804,Mortality,11387404,2001
+Ohio,57850,Incidence,11407889,2002
+Ohio,25173,Mortality,11407889,2002
+Ohio,57050,Incidence,11434788,2003
+Ohio,25076,Mortality,11434788,2003
+Ohio,58658,Incidence,11452251,2004
+Ohio,24940,Mortality,11452251,2004
+Ohio,59882,Incidence,11463320,2005
+Ohio,24702,Mortality,11463320,2005
+Ohio,60468,Incidence,11481213,2006
+Ohio,24975,Mortality,11481213,2006
+Ohio,61140,Incidence,11500468,2007
+Ohio,25230,Mortality,11500468,2007
+Ohio,305429,Incidence,57624052,2009
+Ohio,125435,Mortality,57563936,2009
+Ohio,62473,Incidence,11515391,2008
+Ohio,24998,Mortality,11515391,2008
+Ohio,61919,Incidence,11528896,2009
+Ohio,25149,Mortality,11528896,2009
+Ohio,59540,Incidence,11538290,2010
+Ohio,25083,Mortality,11537968,2010
+Ohio,60357,Incidence,11541007,2011
+Ohio,25083,Mortality,11537968,2011
+Oklahoma,16075,Incidence,3437147,1999
+Oklahoma,7312,Mortality,3437147,1999
+Oklahoma,16308,Incidence,3454365,2000
+Oklahoma,7402,Mortality,3454365,2000
+Oklahoma,16838,Incidence,3467100,2001
+Oklahoma,7411,Mortality,3467100,2001
+Oklahoma,17336,Incidence,3489080,2002
+Oklahoma,7474,Mortality,3489080,2002
+Oklahoma,17959,Incidence,3504892,2003
+Oklahoma,7338,Mortality,3504892,2003
+Oklahoma,17748,Incidence,3525233,2004
+Oklahoma,7269,Mortality,3525233,2004
+Oklahoma,17847,Incidence,3548597,2005
+Oklahoma,7446,Mortality,3548597,2005
+Oklahoma,18936,Incidence,3594090,2006
+Oklahoma,7491,Mortality,3594090,2006
+Oklahoma,19745,Incidence,3634349,2007
+Oklahoma,7727,Mortality,3634349,2007
+Oklahoma,94365,Incidence,18564542,2009
+Oklahoma,38345,Mortality,18375171,2009
+Oklahoma,18813,Incidence,3668976,2008
+Oklahoma,7657,Mortality,3668976,2008
+Oklahoma,18898,Incidence,3717572,2009
+Oklahoma,7639,Mortality,3717572,2009
+Oklahoma,18474,Incidence,3759482,2010
+Oklahoma,7831,Mortality,3760184,2010
+Oklahoma,18435,Incidence,3784163,2011
+Oklahoma,7831,Mortality,3760184,2011
+Oregon,17598,Incidence,3393941,1999
+Oregon,6905,Mortality,3393941,1999
+Oregon,17443,Incidence,3429708,2000
+Oregon,6951,Mortality,3429708,2000
+Oregon,17840,Incidence,3467937,2001
+Oregon,7057,Mortality,3467937,2001
+Oregon,17874,Incidence,3513424,2002
+Oregon,7249,Mortality,3513424,2002
+Oregon,17579,Incidence,3547376,2003
+Oregon,7232,Mortality,3547376,2003
+Oregon,18490,Incidence,3569463,2004
+Oregon,7236,Mortality,3569463,2004
+Oregon,18664,Incidence,3613202,2005
+Oregon,7326,Mortality,3613202,2005
+Oregon,19091,Incidence,3670883,2006
+Oregon,7309,Mortality,3670883,2006
+Oregon,19356,Incidence,3722417,2007
+Oregon,7393,Mortality,3722417,2007
+Oregon,99446,Incidence,19006206,2009
+Oregon,37306,Mortality,18808980,2009
+Oregon,20349,Incidence,3768748,2008
+Oregon,7479,Mortality,3768748,2008
+Oregon,19851,Incidence,3808600,2009
+Oregon,7487,Mortality,3808600,2009
+Oregon,19554,Incidence,3838212,2010
+Oregon,7638,Mortality,3838332,2010
+Oregon,20336,Incidence,3868229,2011
+Oregon,7638,Mortality,3838332,2011
+Pacific,189331,Incidence,44570788,1999
+Pacific,73171,Mortality,44570788,1999
+Pacific,190036,Incidence,45169679,2000
+Pacific,73421,Mortality,45169679,2000
+Pacific,197024,Incidence,45792779,2001
+Pacific,74495,Mortality,45792779,2001
+Pacific,199098,Incidence,46319566,2002
+Pacific,74910,Mortality,46319566,2002
+Pacific,197604,Incidence,46804218,2003
+Pacific,75483,Mortality,46804218,2003
+Pacific,203631,Incidence,47255539,2004
+Pacific,74741,Mortality,47255539,2004
+Pacific,206367,Incidence,47658125,2005
+Pacific,76004,Mortality,47658125,2005
+Pacific,208891,Incidence,48047871,2006
+Pacific,75465,Mortality,48047871,2006
+Pacific,215141,Incidence,48430290,2007
+Pacific,77025,Mortality,48430290,2007
+Pacific,1103475,Incidence,247340137,2009
+Pacific,386987,Mortality,244912997,2009
+Pacific,220436,Incidence,48954984,2008
+Pacific,76844,Mortality,48954984,2008
+Pacific,222732,Incidence,49482867,2009
+Pacific,78538,Mortality,49482867,2009
+Pacific,222490,Incidence,49994578,2010
+Pacific,79115,Mortality,49996985,2010
+Pacific,222676,Incidence,50477418,2011
+Pacific,79115,Mortality,49996985,2011
+Pennsylvania,70820,Incidence,12263805,1999
+Pennsylvania,30311,Mortality,12263805,1999
+Pennsylvania,71293,Incidence,12284173,2000
+Pennsylvania,30160,Mortality,12284173,2000
+Pennsylvania,74570,Incidence,12298970,2001
+Pennsylvania,29913,Mortality,12298970,2001
+Pennsylvania,73968,Incidence,12331031,2002
+Pennsylvania,29849,Mortality,12331031,2002
+Pennsylvania,72979,Incidence,12374658,2003
+Pennsylvania,29839,Mortality,12374658,2003
+Pennsylvania,72887,Incidence,12410722,2004
+Pennsylvania,29422,Mortality,12410722,2004
+Pennsylvania,73593,Incidence,12449990,2005
+Pennsylvania,29615,Mortality,12449990,2005
+Pennsylvania,75681,Incidence,12510809,2006
+Pennsylvania,29170,Mortality,12510809,2006
+Pennsylvania,76821,Incidence,12563937,2007
+Pennsylvania,29013,Mortality,12563937,2007
+Pennsylvania,385609,Incidence,63298336,2009
+Pennsylvania,145080,Mortality,63071611,2009
+Pennsylvania,76762,Incidence,12612285,2008
+Pennsylvania,28963,Mortality,12612285,2008
+Pennsylvania,76999,Incidence,12666858,2009
+Pennsylvania,28879,Mortality,12666858,2009
+Pennsylvania,76867,Incidence,12711308,2010
+Pennsylvania,29055,Mortality,12717722,2010
+Pennsylvania,78160,Incidence,12743948,2011
+Pennsylvania,29055,Mortality,12717722,2011
+Rhode Island,6105,Incidence,1040402,1999
+Rhode Island,2463,Mortality,1040402,1999
+Rhode Island,6159,Incidence,1050268,2000
+Rhode Island,2433,Mortality,1050268,2000
+Rhode Island,6165,Incidence,1057142,2001
+Rhode Island,2398,Mortality,1057142,2001
+Rhode Island,6231,Incidence,1065995,2002
+Rhode Island,2403,Mortality,1065995,2002
+Rhode Island,6019,Incidence,1071342,2003
+Rhode Island,2328,Mortality,1071342,2003
+Rhode Island,6281,Incidence,1074579,2004
+Rhode Island,2418,Mortality,1074579,2004
+Rhode Island,5986,Incidence,1067916,2005
+Rhode Island,2291,Mortality,1067916,2005
+Rhode Island,6258,Incidence,1063096,2006
+Rhode Island,2250,Mortality,1063096,2006
+Rhode Island,6345,Incidence,1057315,2007
+Rhode Island,2213,Mortality,1057315,2007
+Rhode Island,30198,Incidence,5269379,2009
+Rhode Island,11176,Mortality,5281588,2009
+Rhode Island,6242,Incidence,1055003,2008
+Rhode Island,2227,Mortality,1055003,2008
+Rhode Island,6193,Incidence,1053646,2009
+Rhode Island,2220,Mortality,1053646,2009
+Rhode Island,5664,Incidence,1052769,2010
+Rhode Island,2266,Mortality,1052528,2010
+Rhode Island,5754,Incidence,1050646,2011
+Rhode Island,2266,Mortality,1052528,2011
+San Francisco-Oakland,18625,Incidence,4089620,1999
+San Francisco-Oakland,18611,Incidence,4135875,2000
+San Francisco-Oakland,19063,Incidence,4174788,2001
+San Francisco-Oakland,19139,Incidence,4158544,2002
+San Francisco-Oakland,18706,Incidence,4145965,2003
+San Francisco-Oakland,18993,Incidence,4133400,2004
+San Francisco-Oakland,19031,Incidence,4137858,2005
+San Francisco-Oakland,19871,Incidence,4148724,2006
+San Francisco-Oakland,20571,Incidence,4183637,2007
+San Francisco-Oakland,104478,Incidence,21472473,2009
+San Francisco-Oakland,20743,Incidence,4243932,2008
+San Francisco-Oakland,20846,Incidence,4302830,2009
+San Francisco-Oakland,21238,Incidence,4345156,2010
+San Francisco-Oakland,21080,Incidence,4396918,2011
+San Jose-Monterey,8866,Incidence,2372899,1999
+San Jose-Monterey,8740,Incidence,2397553,2000
+San Jose-Monterey,9098,Incidence,2405853,2001
+San Jose-Monterey,8996,Incidence,2387912,2002
+San Jose-Monterey,9406,Incidence,2381536,2003
+San Jose-Monterey,9347,Incidence,2379103,2004
+San Jose-Monterey,9495,Incidence,2386475,2005
+San Jose-Monterey,9882,Incidence,2398730,2006
+San Jose-Monterey,10112,Incidence,2421778,2007
+San Jose-Monterey,51987,Incidence,12445846,2009
+San Jose-Monterey,10309,Incidence,2457773,2008
+San Jose-Monterey,10445,Incidence,2489845,2009
+San Jose-Monterey,10608,Incidence,2521893,2010
+San Jose-Monterey,10513,Incidence,2554557,2011
+Seattle-Puget Sound,19220,Incidence,4010302,1999
+Seattle-Puget Sound,19098,Incidence,4057705,2000
+Seattle-Puget Sound,19842,Incidence,4113580,2001
+Seattle-Puget Sound,20342,Incidence,4155136,2002
+Seattle-Puget Sound,20470,Incidence,4182260,2003
+Seattle-Puget Sound,21181,Incidence,4226390,2004
+Seattle-Puget Sound,21716,Incidence,4276830,2005
+Seattle-Puget Sound,22147,Incidence,4357785,2006
+Seattle-Puget Sound,23378,Incidence,4417411,2007
+Seattle-Puget Sound,118893,Incidence,22721833,2009
+Seattle-Puget Sound,23268,Incidence,4484996,2008
+Seattle-Puget Sound,24025,Incidence,4557509,2009
+Seattle-Puget Sound,23884,Incidence,4601919,2010
+Seattle-Puget Sound,24338,Incidence,4659998,2011
+South,199084,Mortality,99164460,1999
+South,202042,Mortality,100565549,2000
+South,202561,Mortality,101849575,2001
+South,204305,Mortality,103150787,2002
+South,204236,Mortality,104380188,2003
+South,506748,Incidence,105883977,2004
+South,204631,Mortality,105883977,2004
+South,520030,Incidence,107275834,2005
+South,207965,Mortality,107275834,2005
+South,532553,Incidence,109076933,2006
+South,208848,Mortality,109076933,2006
+South,554135,Incidence,110688742,2007
+South,210119,Mortality,110688742,2007
+South,2798899,Incidence,567298317,2009
+South,1061108,Mortality,560356749,2009
+South,560738,Incidence,112184930,2008
+South,212280,Mortality,112184930,2008
+South,564933,Incidence,113548615,2009
+South,213346,Mortality,113548615,2009
+South,559443,Incidence,114853800,2010
+South,216515,Mortality,114857529,2010
+South,559650,Incidence,116022230,2011
+South,216515,Mortality,114857529,2011
+South Atlantic,106953,Mortality,51141114,1999
+South Atlantic,108422,Mortality,51962946,2000
+South Atlantic,108708,Mortality,52753858,2001
+South Atlantic,109221,Mortality,53543625,2002
+South Atlantic,273620,Incidence,54261722,2003
+South Atlantic,109617,Mortality,54261722,2003
+South Atlantic,276986,Incidence,55186148,2004
+South Atlantic,110203,Mortality,55186148,2004
+South Atlantic,285700,Incidence,56145779,2005
+South Atlantic,112140,Mortality,56145779,2005
+South Atlantic,291204,Incidence,57156873,2006
+South Atlantic,112809,Mortality,57156873,2006
+South Atlantic,303146,Incidence,57964590,2007
+South Atlantic,113315,Mortality,57964590,2007
+South Atlantic,1531526,Incidence,296431777,2009
+South Atlantic,571483,Mortality,293032739,2009
+South Atlantic,307222,Incidence,58693474,2008
+South Atlantic,114090,Mortality,58693474,2008
+South Atlantic,309078,Incidence,59300986,2009
+South Atlantic,114970,Mortality,59300986,2009
+South Atlantic,305607,Incidence,59927533,2010
+South Atlantic,116299,Mortality,59916816,2010
+South Atlantic,306473,Incidence,60545194,2011
+South Atlantic,116299,Mortality,59916816,2011
+South Carolina,18831,Incidence,3974682,1999
+South Carolina,8089,Mortality,3974682,1999
+South Carolina,18893,Incidence,4024223,2000
+South Carolina,8250,Mortality,4024223,2000
+South Carolina,19705,Incidence,4064995,2001
+South Carolina,8272,Mortality,4064995,2001
+South Carolina,20878,Incidence,4107795,2002
+South Carolina,8333,Mortality,4107795,2002
+South Carolina,20606,Incidence,4150297,2003
+South Carolina,8512,Mortality,4150297,2003
+South Carolina,21046,Incidence,4210921,2004
+South Carolina,8348,Mortality,4210921,2004
+South Carolina,21852,Incidence,4270150,2005
+South Carolina,8652,Mortality,4270150,2005
+South Carolina,22463,Incidence,4357847,2006
+South Carolina,8853,Mortality,4357847,2006
+South Carolina,23392,Incidence,4444110,2007
+South Carolina,8867,Mortality,4444110,2007
+South Carolina,117464,Incidence,22872161,2009
+South Carolina,45398,Mortality,22557931,2009
+South Carolina,23266,Incidence,4528996,2008
+South Carolina,9199,Mortality,4528996,2008
+South Carolina,23528,Incidence,4589872,2009
+South Carolina,9123,Mortality,4589872,2009
+South Carolina,24044,Incidence,4635835,2010
+South Carolina,9356,Mortality,4637106,2010
+South Carolina,23234,Incidence,4673348,2011
+South Carolina,9356,Mortality,4637106,2011
+South Dakota,1632,Mortality,750412,1999
+South Dakota,1597,Mortality,755844,2000
+South Dakota,3938,Incidence,757972,2001
+South Dakota,1590,Mortality,757972,2001
+South Dakota,4322,Incidence,760020,2002
+South Dakota,1562,Mortality,760020,2002
+South Dakota,3981,Incidence,763729,2003
+South Dakota,1636,Mortality,763729,2003
+South Dakota,3999,Incidence,770396,2004
+South Dakota,1555,Mortality,770396,2004
+South Dakota,3906,Incidence,775493,2005
+South Dakota,1612,Mortality,775493,2005
+South Dakota,3811,Incidence,783033,2006
+South Dakota,1570,Mortality,783033,2006
+South Dakota,4046,Incidence,791623,2007
+South Dakota,1612,Mortality,791623,2007
+South Dakota,20565,Incidence,4037630,2009
+South Dakota,7910,Mortality,3997445,2009
+South Dakota,4006,Incidence,799124,2008
+South Dakota,1570,Mortality,799124,2008
+South Dakota,4150,Incidence,807067,2009
+South Dakota,1503,Mortality,807067,2009
+South Dakota,4049,Incidence,816223,2010
+South Dakota,1655,Mortality,816598,2010
+South Dakota,4314,Incidence,823593,2011
+South Dakota,1655,Mortality,816598,2011
+Tennessee,11941,Mortality,5638706,1999
+Tennessee,12339,Mortality,5703719,2000
+Tennessee,12229,Mortality,5750789,2001
+Tennessee,12518,Mortality,5795918,2002
+Tennessee,12613,Mortality,5847812,2003
+Tennessee,27527,Incidence,5910809,2004
+Tennessee,12586,Mortality,5910809,2004
+Tennessee,30086,Incidence,5991057,2005
+Tennessee,12995,Mortality,5991057,2005
+Tennessee,30946,Incidence,6088766,2006
+Tennessee,13051,Mortality,6088766,2006
+Tennessee,31998,Incidence,6175727,2007
+Tennessee,13161,Mortality,6175727,2007
+Tennessee,166041,Incidence,31485617,2009
+Tennessee,66449,Mortality,31175359,2009
+Tennessee,32834,Incidence,6247411,2008
+Tennessee,13162,Mortality,6247411,2008
+Tennessee,33814,Incidence,6306019,2009
+Tennessee,13482,Mortality,6306019,2009
+Tennessee,33573,Incidence,6356673,2010
+Tennessee,13593,Mortality,6357436,2010
+Tennessee,33822,Incidence,6399787,2011
+Tennessee,13593,Mortality,6357436,2011
+Texas,80379,Incidence,20558220,1999
+Texas,32755,Mortality,20558220,1999
+Texas,82975,Incidence,20944499,2000
+Texas,33300,Mortality,20944499,2000
+Texas,87459,Incidence,21319622,2001
+Texas,33488,Mortality,21319622,2001
+Texas,88562,Incidence,21690325,2002
+Texas,34164,Mortality,21690325,2002
+Texas,89648,Incidence,22030931,2003
+Texas,33867,Mortality,22030931,2003
+Texas,90373,Incidence,22394023,2004
+Texas,33937,Mortality,22394023,2004
+Texas,92184,Incidence,22773020,2005
+Texas,34291,Mortality,22773020,2005
+Texas,94124,Incidence,23359580,2006
+Texas,34938,Mortality,23359580,2006
+Texas,98467,Incidence,23831983,2007
+Texas,35074,Mortality,23831983,2007
+Texas,493172,Incidence,123817244,2009
+Texas,178032,Mortality,121555829,2009
+Texas,99150,Incidence,24309039,2008
+Texas,35712,Mortality,24309039,2008
+Texas,99999,Incidence,24801761,2009
+Texas,35591,Mortality,24801761,2009
+Texas,97900,Incidence,25242683,2010
+Texas,36717,Mortality,25253466,2010
+Texas,97656,Incidence,25631778,2011
+Texas,36717,Mortality,25253466,2011
+United States (comparable to ICD-O-2),1211001,Incidence,253805749,1999
+United States (comparable to ICD-O-2),1261602,Incidence,263070090,2000
+United States (comparable to ICD-O-2),1271864,Incidence,262578553,2001
+United States (comparable to ICD-O-2),1299586,Incidence,268404636,2002
+United States (comparable to ICD-O-2),1355194,Incidence,284260121,2003
+United States (comparable to ICD-O-2),1400822,Incidence,292805298,2004
+United States (comparable to ICD-O-2),1425560,Incidence,295516599,2005
+United States (comparable to ICD-O-2),1459072,Incidence,298379912,2006
+United States (comparable to ICD-O-2),1499757,Incidence,301231207,2007
+United States (comparable to ICD-O-2),7517088,Incidence,1519647590,2009
+United States (comparable to ICD-O-2),1516226,Incidence,304093966,2008
+United States (comparable to ICD-O-2),1527547,Incidence,306771529,2009
+United States (comparable to ICD-O-2),1510249,Incidence,309326225,2010
+United States (comparable to ICD-O-2),1509388,Incidence,308867788,2011
+Utah,6620,Incidence,2203482,1999
+Utah,2393,Mortality,2203482,1999
+Utah,6550,Incidence,2244502,2000
+Utah,2358,Mortality,2244502,2000
+Utah,7006,Incidence,2283715,2001
+Utah,2313,Mortality,2283715,2001
+Utah,7167,Incidence,2324815,2002
+Utah,2376,Mortality,2324815,2002
+Utah,7473,Incidence,2360137,2003
+Utah,2444,Mortality,2360137,2003
+Utah,7753,Incidence,2401580,2004
+Utah,2445,Mortality,2401580,2004
+Utah,7909,Incidence,2457719,2005
+Utah,2520,Mortality,2457719,2005
+Utah,8294,Incidence,2525507,2006
+Utah,2615,Mortality,2525507,2006
+Utah,8502,Incidence,2597746,2007
+Utah,2572,Mortality,2597746,2007
+Utah,45434,Incidence,13573636,2009
+Utah,13044,Mortality,13285182,2009
+Utah,8835,Incidence,2663029,2008
+Utah,2492,Mortality,2663029,2008
+Utah,9080,Incidence,2723421,2009
+Utah,2555,Mortality,2723421,2009
+Utah,9452,Incidence,2775093,2010
+Utah,2810,Mortality,2775479,2010
+Utah,9565,Incidence,2814347,2011
+Utah,2810,Mortality,2775479,2011
+Vermont,3182,Incidence,604683,1999
+Vermont,1255,Mortality,604683,1999
+Vermont,3098,Incidence,609618,2000
+Vermont,1240,Mortality,609618,2000
+Vermont,3205,Incidence,612223,2001
+Vermont,1249,Mortality,612223,2001
+Vermont,3203,Incidence,615442,2002
+Vermont,1224,Mortality,615442,2002
+Vermont,3348,Incidence,617858,2003
+Vermont,1210,Mortality,617858,2003
+Vermont,3381,Incidence,619920,2004
+Vermont,1212,Mortality,619920,2004
+Vermont,3455,Incidence,621215,2005
+Vermont,1202,Mortality,621215,2005
+Vermont,3715,Incidence,622892,2006
+Vermont,1214,Mortality,622892,2006
+Vermont,3593,Incidence,623481,2007
+Vermont,1346,Mortality,623481,2007
+Vermont,17884,Incidence,3124957,2009
+Vermont,6485,Mortality,3121250,2009
+Vermont,3515,Incidence,624151,2008
+Vermont,1279,Mortality,624151,2008
+Vermont,3661,Incidence,624817,2009
+Vermont,1254,Mortality,624817,2009
+Vermont,3609,Incidence,625916,2010
+Vermont,1392,Mortality,625909,2010
+Vermont,3506,Incidence,626592,2011
+Vermont,1392,Mortality,625909,2011
+Virginia,13365,Mortality,7000174,1999
+Virginia,13528,Mortality,7105817,2000
+Virginia,13345,Mortality,7198362,2001
+Virginia,13600,Mortality,7286873,2002
+Virginia,32771,Incidence,7366977,2003
+Virginia,13781,Mortality,7366977,2003
+Virginia,33404,Incidence,7475575,2004
+Virginia,13384,Mortality,7475575,2004
+Virginia,34463,Incidence,7577105,2005
+Virginia,13877,Mortality,7577105,2005
+Virginia,35222,Incidence,7673725,2006
+Virginia,13828,Mortality,7673725,2006
+Virginia,37054,Incidence,7751000,2007
+Virginia,14009,Mortality,7751000,2007
+Virginia,183923,Incidence,39639922,2009
+Virginia,70020,Mortality,39208111,2009
+Virginia,37038,Incidence,7833496,2008
+Virginia,13983,Mortality,7833496,2008
+Virginia,37576,Incidence,7925937,2009
+Virginia,14122,Mortality,7925937,2009
+Virginia,35900,Incidence,8025105,2010
+Virginia,14078,Mortality,8023953,2010
+Virginia,36355,Incidence,8104384,2011
+Virginia,14078,Mortality,8023953,2011
+Washington,28160,Incidence,5842564,1999
+Washington,10653,Mortality,5842564,1999
+Washington,28065,Incidence,5910512,2000
+Washington,10668,Mortality,5910512,2000
+Washington,29350,Incidence,5985722,2001
+Washington,10802,Mortality,5985722,2001
+Washington,29630,Incidence,6052349,2002
+Washington,10858,Mortality,6052349,2002
+Washington,29789,Incidence,6104115,2003
+Washington,11064,Mortality,6104115,2003
+Washington,30651,Incidence,6178645,2004
+Washington,10989,Mortality,6178645,2004
+Washington,31372,Incidence,6257305,2005
+Washington,11048,Mortality,6257305,2005
+Washington,31808,Incidence,6370753,2006
+Washington,11055,Mortality,6370753,2006
+Washington,31281,Incidence,6461587,2007
+Washington,11568,Mortality,6461587,2007
+Washington,166907,Incidence,33258147,2009
+Washington,58037,Mortality,32804947,2009
+Washington,33131,Incidence,6562231,2008
+Washington,11618,Mortality,6562231,2008
+Washington,34072,Incidence,6667426,2009
+Washington,11922,Mortality,6667426,2009
+Washington,34121,Incidence,6743636,2010
+Washington,11874,Mortality,6742950,2010
+Washington,34302,Incidence,6823267,2011
+Washington,11874,Mortality,6742950,2011
+West,0,Incidence,60497154,1999
+West,101760,Mortality,62431872,1999
+West,264771,Incidence,63439136,2000
+West,102304,Mortality,63439136,2000
+West,275395,Incidence,64427327,2001
+West,103781,Mortality,64427327,2001
+West,278723,Incidence,65312198,2002
+West,104941,Mortality,65312198,2002
+West,278128,Incidence,66116338,2003
+West,106320,Mortality,66116338,2003
+West,286157,Incidence,66965483,2004
+West,105123,Mortality,66965483,2004
+West,290524,Incidence,67833726,2005
+West,107328,Mortality,67833726,2005
+West,296125,Incidence,68751765,2006
+West,107096,Mortality,68751765,2006
+West,305474,Incidence,69595414,2007
+West,109180,Mortality,69595414,2007
+West,0,Incidence,343029027,2009
+West,549697,Mortality,352327854,2009
+West,312527,Incidence,70509175,2008
+West,109142,Mortality,70509175,2008
+West,317764,Incidence,71341376,2009
+West,111285,Mortality,71341376,2009
+West,316014,Incidence,72123364,2010
+West,112994,Mortality,72130124,2010
+West,112994,Mortality,72130124,2011
+West North Central,0,Incidence,18380424,1999
+West North Central,39166,Mortality,19130836,1999
+West North Central,0,Incidence,18519568,2000
+West North Central,39355,Mortality,19275412,2000
+West North Central,0,Incidence,18735905,2001
+West North Central,39554,Mortality,19374967,2001
+West North Central,98244,Incidence,19468009,2002
+West North Central,39655,Mortality,19468009,2002
+West North Central,97924,Incidence,19569167,2003
+West North Central,39646,Mortality,19569167,2003
+West North Central,99326,Incidence,19687933,2004
+West North Central,39284,Mortality,19687933,2004
+West North Central,101635,Incidence,19802730,2005
+West North Central,39390,Mortality,19802730,2005
+West North Central,103336,Incidence,19956982,2006
+West North Central,39687,Mortality,19956982,2006
+West North Central,106035,Incidence,20105697,2007
+West North Central,39693,Mortality,20105697,2007
+West North Central,533327,Incidence,101924697,2009
+West North Central,199403,Mortality,101241163,2009
+West North Central,106019,Incidence,20248815,2008
+West North Central,39986,Mortality,20248815,2008
+West North Central,106942,Incidence,20392583,2009
+West North Central,39702,Mortality,20392583,2009
+West North Central,106236,Incidence,20536269,2010
+West North Central,40335,Mortality,20537086,2010
+West North Central,108095,Incidence,20641333,2011
+West North Central,40335,Mortality,20537086,2011
+West South Central,55616,Mortality,31108038,1999
+West South Central,0,Incidence,28870749,2000
+West South Central,56192,Mortality,31549337,2000
+West South Central,138915,Incidence,31956168,2001
+West South Central,56507,Mortality,31956168,2001
+West South Central,57361,Mortality,32382599,2002
+West South Central,143023,Incidence,32781681,2003
+West South Central,56856,Mortality,32781681,2003
+West South Central,144073,Incidence,33221180,2004
+West South Central,56944,Mortality,33221180,2004
+West South Central,145263,Incidence,33514110,2005
+West South Central,57347,Mortality,33514110,2005
+West South Central,148999,Incidence,34078096,2006
+West South Central,57459,Mortality,34078096,2006
+West South Central,155426,Incidence,34690563,2007
+West South Central,57925,Mortality,34690563,2007
+West South Central,777419,Incidence,179284871,2009
+West South Central,293543,Mortality,176445219,2009
+West South Central,155566,Incidence,35288155,2008
+West South Central,59092,Mortality,35288155,2008
+West South Central,157126,Incidence,35907824,2009
+West South Central,58841,Mortality,35907824,2009
+West South Central,154627,Incidence,36469040,2010
+West South Central,60226,Mortality,36480581,2010
+West South Central,154674,Incidence,36929289,2011
+West South Central,60226,Mortality,36480581,2011
+West Virginia,10514,Incidence,1811799,1999
+West Virginia,4762,Mortality,1811799,1999
+West Virginia,10572,Incidence,1807021,2000
+West Virginia,4753,Mortality,1807021,2000
+West Virginia,10910,Incidence,1801481,2001
+West Virginia,4685,Mortality,1801481,2001
+West Virginia,10706,Incidence,1805414,2002
+West Virginia,4652,Mortality,1805414,2002
+West Virginia,10486,Incidence,1812295,2003
+West Virginia,4610,Mortality,1812295,2003
+West Virginia,10708,Incidence,1816438,2004
+West Virginia,4694,Mortality,1816438,2004
+West Virginia,11026,Incidence,1820492,2005
+West Virginia,4617,Mortality,1820492,2005
+West Virginia,11194,Incidence,1827912,2006
+West Virginia,4613,Mortality,1827912,2006
+West Virginia,11502,Incidence,1834052,2007
+West Virginia,4690,Mortality,1834052,2007
+West Virginia,56436,Incidence,9231064,2009
+West Virginia,23379,Mortality,9204417,2009
+West Virginia,11232,Incidence,1840310,2008
+West Virginia,4605,Mortality,1840310,2008
+West Virginia,11255,Incidence,1847775,2009
+West Virginia,4786,Mortality,1847775,2009
+West Virginia,11086,Incidence,1854019,2010
+West Virginia,4685,Mortality,1854368,2010
+West Virginia,11361,Incidence,1854908,2011
+West Virginia,4685,Mortality,1854368,2011
+Wisconsin,26918,Incidence,5332666,1999
+Wisconsin,10755,Mortality,5332666,1999
+Wisconsin,26721,Incidence,5373999,2000
+Wisconsin,10638,Mortality,5373999,2000
+Wisconsin,28085,Incidence,5406835,2001
+Wisconsin,10777,Mortality,5406835,2001
+Wisconsin,27286,Incidence,5445162,2002
+Wisconsin,10828,Mortality,5445162,2002
+Wisconsin,27430,Incidence,5479203,2003
+Wisconsin,10648,Mortality,5479203,2003
+Wisconsin,27853,Incidence,5514026,2004
+Wisconsin,10861,Mortality,5514026,2004
+Wisconsin,27763,Incidence,5546166,2005
+Wisconsin,10943,Mortality,5546166,2005
+Wisconsin,28498,Incidence,5577655,2006
+Wisconsin,10925,Mortality,5577655,2006
+Wisconsin,29303,Incidence,5610775,2007
+Wisconsin,10963,Mortality,5610775,2007
+Wisconsin,148854,Incidence,28320469,2009
+Wisconsin,55218,Mortality,28190349,2009
+Wisconsin,29723,Incidence,5640996,2008
+Wisconsin,11185,Mortality,5640996,2008
+Wisconsin,29763,Incidence,5669264,2009
+Wisconsin,10866,Mortality,5669264,2009
+Wisconsin,29946,Incidence,5689591,2010
+Wisconsin,11279,Mortality,5691659,2010
+Wisconsin,30119,Incidence,5709843,2011
+Wisconsin,11279,Mortality,5691659,2011
+Wyoming,2203,Incidence,491780,1999
+Wyoming,899,Mortality,491780,1999
+Wyoming,2230,Incidence,494300,2000
+Wyoming,868,Mortality,494300,2000
+Wyoming,2227,Incidence,494657,2001
+Wyoming,923,Mortality,494657,2001
+Wyoming,2222,Incidence,500017,2002
+Wyoming,859,Mortality,500017,2002
+Wyoming,2364,Incidence,503453,2003
+Wyoming,943,Mortality,503453,2003
+Wyoming,2360,Incidence,509106,2004
+Wyoming,875,Mortality,509106,2004
+Wyoming,2278,Incidence,514157,2005
+Wyoming,886,Mortality,514157,2005
+Wyoming,2469,Incidence,522667,2006
+Wyoming,927,Mortality,522667,2006
+Wyoming,2450,Incidence,534876,2007
+Wyoming,940,Mortality,534876,2007
+Wyoming,12814,Incidence,2772493,2009
+Wyoming,4693,Mortality,2727991,2009
+Wyoming,2524,Incidence,546043,2008
+Wyoming,874,Mortality,546043,2008
+Wyoming,2518,Incidence,559851,2009
+Wyoming,936,Mortality,559851,2009
+Wyoming,2646,Incidence,564367,2010
+Wyoming,1016,Mortality,564554,2010
+Wyoming,2676,Incidence,567356,2011
+Wyoming,1016,Mortality,564554,2011
